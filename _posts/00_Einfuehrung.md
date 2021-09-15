@@ -11,5 +11,7 @@ Meine erste Informatikausbildung zwischen 2009 und 2013 hatte den Schwertpunkt i
 
 Parallel zu meiner Tätigkeit bei der Tocco AG, entschied ich mich in Form eines Teilzeitstudiums für Information Science an der Fachhochschule Graubünden, weiterzubilden. Grund dafür war der Major Usability Engineering damit ich mich im Feld des UX-Designs vertiefen kann. Das Feld der Bibliotheks- und Archivwissenschaft ist dabei neu für mich. Erste Kenntnisse zu Bibliotheken, Archiven und Rekordmanagement wurden in Studium erlernt. Praktische Erfahrungen wurden dabei noch keine gesammelt. 
 
+
 **Ich erwarte von diesem Kurs ...**
+
 Meine Erwartungshaltung an das Modul Bibliotheks- und Archivinformatik war bei der ersten Einschreibung in das Pflichtmodul noch anders als nach der ersten Sitzung. Die Erwartung zunächst war einen starken Fokus auf Bibliothekssoftware, deren Oberfläche und der Administration davon. Dass nun der Fokus aber stärker im technischen Bereich liegt, ist umso besser. Meine Erwartungshaltung dabei ist, meine Grundkenntnisse im Linux-Bereich zu erweitern, bereits erlerntes zu wiederholen und neue Erfahrungen zu machen. Speziell mit neuen Metastandards und deren Schnittstellen. Mein persönlicher Schwerpunkt liegt dabei derzeit auf die Implementation von Server und Open-Source Dienste via Ubuntu und auch **SOLR**, was bereits in meinem Unternehmen zur Indexierung und Suche im CRM genutzt wird.
