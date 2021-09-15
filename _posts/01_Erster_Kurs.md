@@ -1,6 +1,6 @@
 ---
 title: "Erster Tag - Technische Grundlagen"
-date: 2021-09-1990ern 5
+date: 2021-09-16
 ---
 
 In diesem Artikel wird auf die erste Sitzung des Moduls Bibliotheks und Archivinformatik eingegangen. Thema dabei waren die technischen Grundlagen des Kurses.
