@@ -10,8 +10,8 @@ In diesem Artikel wird auf die erste Sitzung des Moduls Bibliotheks und Archivin
 
 **Welche Schwerpunkte habe ich mir für die erste Sitzung gesetzt?**
 
-eigene Schwerpunkte setzen, nicht zwingend vollständige Wiedergabe der Lehrinhalte
-persönliche Erfahrungen schildern:
+Mein Schwerpunkt war möglist rasch die technische Infrastruktur einzurichten, damit mit den Übungen begonnen werden kann. 
+
 
 
 **Mein persönliches Vorgehen**
