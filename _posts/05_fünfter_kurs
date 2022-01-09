@@ -1,7 +1,27 @@
+
 ---
 title: "Fünfter Tag - Repository-Software"
 date: 2021-11-19
 ---
+
+In diesem Artikel wird auf die fünfte Sitzung des Moduls Bibliothek und Archivinformatik eingegangen. Thema dabei waren dabei die Besprechung der vergangenen Übung (Post ex_01_Import_Export_ArchiveSpace), ein kurzer Nachtrag zu den Funktionen und Aufbau von Archivsystemen und als neuen Themenblock Repository-Software für die Publikationen und Forschungsdaten. Anschliessend erfolgte wieder eine Übung, welche im Blogpost XY beschrieben wird.
+
+Neben den Ergebnissen der Übung wurden einige Erkenntnisse aus den Lerntagebüchern besprochen wie z.B. fortlaufende Verfassen der Blogposts. Von diesem Problem war ich ebenfalls betroffen, da ich zeitlich doch sehr unter Druck stehe und ich mir die Blogposts mitunter für andere Tage vorgenommen habe. Wie dies am besten durchgeführt wurde ebenfalls besprochen. Ich mache dies wie bereits vorgeschlagen mit Stichworten und den Themen, die mir persönlich wichtig waren. 
+
+Zu den Archivsystemen wurde ein Marktüberblick vorgestellt, welcher wie bei den Bibliothekssystemen für mich neu war und deshalb gut war für einen Einblick bzw. um ein Gefühl für den Markt zu bekommen. Für mich waren Ausserdem die Abgrenzung zu den Bilbiothekssystemen noch wichtig. Dabei wurden die Bibliothekssysteme als Software mit starker Nutzerinteraktion mit dem Medium vorgestellt. Medatenformate sind wie bekannt MARC21 welches aber von BIBFRAME abgelöst wird. Die ganze Software bezieht sich stark auf das Medium. Hingegen bei Archivsystemen orientiert man sich an analogen Findmitteln. Metadatenformat sind EAD und in Zukunft aber RiC.  Im Anschluss an das Intro und den kurzen Wrap-Up folgte das heutige Hauptthema:
+
+**Repotistory-Software**
+
+Bei Repository-Software handelt es sich um Anwendungen, die Verwaltung von Publikationen und Forschungsdaten eingesetzt werden. Hier muss man auch den Begriff von Software-Repository abgrenzen. Dabei handelt es sich um Programmpaket mit den Codefile und mit Metadaten wie der Paketbeschreibung und Änderungsverläufe. Repository-Software hingegen ist eine Software für den Betrieb von Dokumentenserver und welche Werkzeuge für die Erfassung, Speicherung und Weiterverarbeitung von digitalen Ressourcen beinhaltet. 
+
+Als Beispiel für eine solche Software haben wir die Open-Source Anwendung DSpace angeschaut. 2002 entwickelt und aktuell in der siebten Version. DSpace ist auch die weltweit am meist genutzten Repository-Software mit einem Marktanteil von 39 %. Als Demo steht DSpace als Webanwendung zur Verfügung, welche wir so auch ausserhalb von der virtuellen Maschine testen konnten. Da meine virtuelle Maschine sehr langsam ist und das Arbeiten doch stark erschwert, erleichterte dieser Umstand die heutige Sitzung doch etwas. 
+Zunächst dachte ich, die Demo ist noch der Teil der Informationswebseite. Es gibt Communities und Sub-Communities welche in Collections abgelegt sind. Diesen können dann Ressourcen hinzugefügt werden. 
+ 
+
+Wir haben eine solche Sub-Community mit einer Collection erstellt. Anschliessend wurde der Collection eine Ressource hinzugefügt. Vor dem Veröffentlichen von Ressourcen, die hinzugefügt wurden, müssen sie zunächst reviewt und freigegeben werden. Dieser Prozess kenn ich so bereits aus meinem Unternehmen welche Software entwickelt. Es ist aussdem möglich, mit DSpace Import und Export von Ressourcen und Metadaten durchzuführen. Als Schnittstellen wurden SWORD oder OAI-PMH (welche wir bereits im Abschnitt mit dem Bibliotekssystemen kennengelernt haben) angegeben. Dies erleichtert das Erfassen von Ressourcen. 
+
+Zum Schluss folgt die Übung «OAI-PMH-Schnittstellen» (welche im nächsten Blogpost beschreiben wird) in der die Schnittstelle im Umfeld von DSpace behandelt. 
+
 
 
 
