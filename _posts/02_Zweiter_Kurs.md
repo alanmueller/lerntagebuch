@@ -7,9 +7,10 @@ In diesem Artikel wird auf die zweite Sitzung des Moduls Bibliothek und Archivin
 
 Im Unterschied zur ersten Lerneinheit war dieser Kurs sowie die Folgenden nun vollständig Online. Zunächst haben wir mit organisatorischem gestartet. Anschliessend wurden die Agenda mit den drei Inhaltsblöcken vorgestellt.
 
-•	Versionskontrolle mit Git
-•	Metadatenstandard in Bibliotheken
-•	Installation und Konfiguration von Koha
+-	Versionskontrolle mit Git
+-	Metadatenstandard in Bibliotheken
+-	Installation und Konfiguration von Koha
+
 
 **Versionkontrolle mit Git**
 
@@ -23,14 +24,17 @@ Im Kurs wird GIT auf der VM installiert und für Übungen genutzt. Bei der erste
 
 **Metadatenstandard in Bibliotheken**
 
-In diesem Themenblock wurde die beiden Standards MARC21 und Dublin Core vorgestellt.
+In diesem Themenblock wurden die beiden Standards MARC21 und Dublin Core vorgestellt.
 In einer Übung sollten die beiden Formate durch Beispieldaten verglichen werden. 
 MARC21 ist dabei eine von Bibliotheken global verwendete Version des 1969 entwickelten Datenformats MARC. Es wird verwendet für bibliographische Daten zwischen Bibliotheken zu übertragen und bildet die Grundlage von vielen heutigen Bibliothekskatalogen. 
 Dublin Core hingegen wird genutzt, um Dokumente und Objekte im Internet mittels Metadaten zu beschreiben für eine besser Auffindbarkeit. Durch die Übung konnte ich mich mit diesen Standards nun kurz auseinandersetzen. MARC21 wirkt dabei sehr komplex speziell für mich, da meine Kenntnisse im Bibliotheksbereich noch sehr gering sind.
 
+
 **Installation und Konfiguration von Koha**
 
 Als letzte Themenblock wurde in der virtuellen Maschine noch Koha installiert. Koha is ein weltweites Open Source Projekt, gegründet 1999 in Neuseeland, heute mit Beteiligung von Unternehmen wie ByWater Solutions, Biblibre, Catalyst IT, PTFS Europe, Theke Solutions. Es ist ein integriertes Bibliothekssystem. Es wird in öffentlichen, Schul- und anderen Bibliotheken eingesetzt.
+
+Koha konnte dabei über das Terminal unter Ubuntu wie in den Kursunterlagen beschrieben installiert werden. 
 
 
 
