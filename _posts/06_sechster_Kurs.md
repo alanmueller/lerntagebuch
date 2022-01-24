@@ -37,7 +37,6 @@ Wir haben dafür mit der Software MarcEdit21 Daten aus dem Ursprungsformaten EAD
 
 ![image](https://user-images.githubusercontent.com/71718724/150863615-2f8befc2-fb0d-4557-a442-0388a5d32bce.png)
 
-Es folgte ein kurzer Input zum XLST-Crosswalk. Das Ziel davon ist, innerhalb den Metadatenstandard eines Files in einen anderen zu überführen. Es handelt sich dabei nicht um eine Konvertierung des Datenformats. Der Crosswalk beschreibt ein Regelwerk, um bestimmte Objekte und Elemente in einer anderen Struktur wieder korrekt zu zuweisen. Diese Zuweisung wird auch Mapping genannt. Je nach Komplexität des Files oder der Kombination von Ausgangs- und Zielstandards kann das Mapping verlustbehaftete Transformationen vollziehen. Die Installation und Konfiguration von MarcEdit war eine kurze Fingerübung, auf die die Crosswalks folgten. MarcEdit scheint etwas aus der Zeit gefallen zu sein, dennoch klappte die Bedienung mithilfe der Dozenten und den verlinkten Anleitungen gut. Ein prüfender Blick über die konvertierten Files zeigte, dass die Umwandlung scheinbar erfolgreich war.
 
 
 
