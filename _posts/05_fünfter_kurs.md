@@ -17,11 +17,6 @@ Bei Repository-Software handelt es sich um Anwendungen, die Verwaltung von Publi
 Als Beispiel für eine solche Software haben wir die Open-Source Anwendung DSpace angeschaut. 2002 entwickelt und aktuell in der siebten Version. DSpace ist auch die weltweit am meist genutzten Repository-Software mit einem Marktanteil von 39 %. Als Demo steht DSpace als Webanwendung zur Verfügung, welche wir so auch ausserhalb von der virtuellen Maschine testen konnten. Da meine virtuelle Maschine sehr langsam ist und das Arbeiten doch stark erschwert, erleichterte dieser Umstand die heutige Sitzung doch etwas. 
 Zunächst dachte ich, die Demo ist noch der Teil der Informationswebseite. Es gibt Communities und Sub-Communities welche in Collections abgelegt sind. Diesen können dann Ressourcen hinzugefügt werden. 
  
-
 Wir haben eine solche Sub-Community mit einer Collection erstellt. Anschliessend wurde der Collection eine Ressource hinzugefügt. Vor dem Veröffentlichen von Ressourcen, die hinzugefügt wurden, müssen sie zunächst reviewt und freigegeben werden. Dieser Prozess kenn ich so bereits aus meinem Unternehmen welche Software entwickelt. Es ist aussdem möglich, mit DSpace Import und Export von Ressourcen und Metadaten durchzuführen. Als Schnittstellen wurden SWORD oder OAI-PMH (welche wir bereits im Abschnitt mit dem Bibliotekssystemen kennengelernt haben) angegeben. Dies erleichtert das Erfassen von Ressourcen. 
 
 Zum Schluss folgt die Übung «OAI-PMH-Schnittstellen» (welche im nächsten Blogpost beschreiben wird) in der die Schnittstelle im Umfeld von DSpace behandelt. 
-
-
-
-
