@@ -13,13 +13,12 @@ Die Open-Source-Software OpenRefine wurde von Google entwickelt und ermöglicht 
 - Forschung
 - Datenanalyse
 - Aufbau von semantischem Web
-- 
-Datenformate die bearbeite werden können sind z.B. CSV, JSON oder auch XML. Mittels SQL-Abfragen können Daten von Datenbanken abgerufen werden. 
-Bevor die Installation auf der virtuellen Maschine vorgenommen werden konnte, dauerte es bei mir noch etwas da die Verbindung mit Pulse Secure zu der Zeit nicht ging. Ich konnte das Problem anschliessend beheben und die virtuelle Maschine starten. 
-Die Installation funktionierte dann anschliessend problemlos. Via Terminal wurde die Installation vorgenommen und anschliessend installiert. Über Localhost konnte es anschliessend aufgerufen werden. 
 
+Datenformate die bearbeite werden können sind z.B. CSV, JSON oder auch XML. Mittels SQL-Abfragen können Daten von Datenbanken abgerufen werden[^1]. 
 
-**Bild**
+Die Installation funktionierte problemlos. Via Terminal wurde die Installation durchgeführt. Über Localhost konnte es anschliessend aufgerufen werden. 
+
+![image](https://user-images.githubusercontent.com/71718724/150866666-ccf9007e-906b-495a-bdef-a8feea88950d.png)
 
 In der kurzen interaktiven Übung wurden Beispieldaten erfasst. Der Beispieldatensatz in Form einer CSV-Datei haben wir von den Dozenten zur Verfügung gestellt bekommen. Anschliessend befassten wird uns mit den Funktionen des Tools. Daten konnten vereinheitlicht werden, Einträge gefiltert. Bei den Beispielen funktioniert es ähnlich wie Excel jedoch ist OpenRefine effizienter. Bei grossen Datenmengen kann dies entscheidend sein. Es wurde auch in OpenRefine die Möglichkeit gezeigt, dass die eingelesenen Metadaten mit Daten aus Wikidata ergänz werden können. 
 **Transformation von Metadaten CSV - MARCXML**
@@ -28,4 +27,4 @@ Wie von XSLT Crosswalt bekannt, konvertieren wir in dieser Übung die Metadaten 
 Fazit zum Tool
 
 
-Quelle: https://www.wikidata.org/wiki/Wikidata:Main_Page
+[^1]: https://www.wikidata.org/wiki/Wikidata:Main_Page
