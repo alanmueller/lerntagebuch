@@ -18,7 +18,7 @@ In einem «Hands on» wurden die Arbeitsprozesse direkt im System gezeigt. Die m
 
 Bei einer kurze Online-Recherche konnte ich noch folgendes in Erfahrung bringen:
 
-Viele Bibliotheken weltweit erwerben und verfügen über die gleichen elektronischen und Print-Medien. Alma fördert und ermöglicht die kollaborative Nutzung von Metadaten zur Beschreibung und Verwaltung dieser Medien nach standardisierten Formaten und bibliothekarischen Regeln. Ferner kann durch Alma eine strategische Bestandsentwicklung mit kooperierenden Organisationen gesteuert werden.
+Viele Bibliotheken weltweit erwerben und verfügen über die gleichen elektronischen und Print-Medien. Alma fördert und ermöglicht die kollaborative Nutzung von Metadaten zur Beschreibung und Verwaltung dieser Medien nach standardisierten Formaten und bibliothekarischen Regeln. Ferner kann durch Alma eine strategische Bestandsentwicklung mit kooperierenden Organisationen gesteuert werden[^1].
 
 **Archivsysteme**
 
@@ -37,15 +37,16 @@ ISAD(G) hat 26 Verzeichnungselemente in 7 Informationsbereichen:
 7.	Kontrolle
 
 Es gibt dabei noch sechs Pflichtfelder die sind: Als Pflichtfelder kommen 
-•	Signatur
-•	Titel
-•	Provenienz
-•	Entstehungszeitraum
-•	Umfang
-•	Verzeichnungsstufe
+- Signatur
+- Titel
+- Provenienz
+- Entstehungszeitraum
+- Umfang
+- Verzeichnungsstufe
+
 Die Übung zu den Archivkatalogen wurde übersprungen und wir gingen zu ArchiveSpace über. Dies wurde wie im letzten Blobgbeitrag (Post 3) bereits installiert. Nun wurde ein eigene Respository angelegt und ein erster Datensatz erfasst. Die Oberfläche zeigt bereits ein paar Abstriche und das System ruckelt bei mir stark, was aber vermutlich mit der virtuellen Maschine zusammenhängt. Der Arbeitsauftrag «Datensätze erstellen» wurde als nächstes durchgeführt und wird im nächsten Blogpost beschrieben. 
 
 
-Quelle: https://www.wu.ac.at/fileadmin/wu/s/library/ALMA/AlmaSystembeschreibungWU.pdf
+[^1]: https://www.wu.ac.at/fileadmin/wu/s/library/ALMA/AlmaSystembeschreibungWU.pdf
 
 
