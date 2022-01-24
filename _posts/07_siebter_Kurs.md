@@ -27,7 +27,8 @@ In der kurzen interaktiven Übung wurden Beispieldaten erfasst. Der Beispieldate
 Wie von XSLT Crosswalt bekannt, konvertieren wir in dieser Übung die Metadaten der Beispieldaten im CSV-Format in MARCXML. Hier wurden aber nicht das Datenformat in das andere konvertiert, sondern mittels der Sprache General Refine Expression Language (GREL) von einem Metadatenstandard in den anderen. Der Output wurde aufgrund möglicher Fehler mit dem vorinstallierten Ubuntu-Programm «xmllint» geprüft. In unserem ERP-System meines Unternehmens (Tocco AG) spielt der CSV-Import eine wesentliche Rolle. Ein Import von z.B Personendaten im CRM ist für Kunden unerlässlich. Ich komme deshlab sehr oft mi diesem Themengebiet in berührung. Mit OpenRefine wäre hier eine Datenbereinung der Kunden, falls nötig denkbar. 
 
 
-<img width="660" alt="Bildschirmfoto_Tocco" src="https://user-images.githubusercontent.com/71718724/150869727-57f86557-58ea-4e5e-b34f-fc070d82e6c9.png">CSV-Importer unter dem ERP System Tocco
+<img width="660" alt="Bildschirmfoto_Tocco" src="https://user-images.githubusercontent.com/71718724/150869727-57f86557-58ea-4e5e-b34f-fc070d82e6c9.png">
+CSV-Importer unter dem ERP System Tocco
 
 
 
