@@ -25,7 +25,21 @@ Die drei am weitest verbreiteten Protokolle sind Dabei Z39.50 (Library of Congre
 
 In diesem Abschnitt geht es um die Installation und anschliessende Übung mit VuFindHarvest. Beim Harvesten handelt es sich hier in diesem Kontext um das Sammeln oder Ernten von Metadaten. Dabei war das Vorgehen zunächst das Sicherstellen, dass die OAI-PMH-Ebdpoint für Koha und ArchiveSpace in meiner virtuellen Umgebung verfügbar sind. Anschliessend mit den Anwendungen die Daten abrufen und als XML auf der Festplatte speichern. 
 
-Ich hatte in dieser Phase immer wieder Probleme mit der Verbindung zu Pulse Secure damit ich die Virtuelle Maschine starten konnte. Die Installation wurde deshalb zu einem späteren Zeitpunkt durchgeführt. Durch eine komplette Neuinstallation von PulseSecure nach Anleitung im Intranet der Fachochschule konnte ich mich mit dem VPN wieder verbinden und die Virtuelle Maschine starten. 
+Ich hatte in dieser Phase immer wieder Probleme mit der Verbindung zu Pulse Secure damit ich die Virtuelle Maschine starten konnte. Die Installation wurde deshalb zu einem späteren Zeitpunkt durchgeführt.
 
-Nachtrag: Nachdem die Vituelel Maschine wieder funktionierte konnte ich die Installation von VuFindHarvest ausführen. Nachdem ich diese wie im Kursdokument beschreiben durchgeführt habe konnte ich mich an die Übung machen. 
+
+**XLST-Crosswalk**
+Der Name kommt daraus, dass hier, Daten von einem Metadatenstand in einen anderen kovertiert werden aber nicht die Konvertierung des Datenformats selber. Dies kann durch Mapping möglichst verlustfrei durchgeführt werden. Das Mapping ist dabei eine Art Regelwerk. Dies konnten wir in der Praxis direkt anwenden. 
+Wir haben dafür mit der Software MarcEdit21 Daten aus dem Ursprungsformaten EAD (in ArchivesSpace verwendet) und OAIDC (in DSpace) in MARC21XML konvertiert.
+
+
+**Nachtrag:**  Durch eine komplette Neuinstallation von PulseSecure nach Anleitung im Intranet der Fachochschule konnte ich mich mit dem VPN wieder verbinden und die Virtuelle Maschine starten. Nachdem die Virtuelle Maschine wieder funktionierte konnte ich die Installation von VuFindHarvest ausführen.
+
+![image](https://user-images.githubusercontent.com/71718724/150863615-2f8befc2-fb0d-4557-a442-0388a5d32bce.png)
+
+Es folgte ein kurzer Input zum XLST-Crosswalk. Das Ziel davon ist, innerhalb den Metadatenstandard eines Files in einen anderen zu überführen. Es handelt sich dabei nicht um eine Konvertierung des Datenformats. Der Crosswalk beschreibt ein Regelwerk, um bestimmte Objekte und Elemente in einer anderen Struktur wieder korrekt zu zuweisen. Diese Zuweisung wird auch Mapping genannt. Je nach Komplexität des Files oder der Kombination von Ausgangs- und Zielstandards kann das Mapping verlustbehaftete Transformationen vollziehen. Die Installation und Konfiguration von MarcEdit war eine kurze Fingerübung, auf die die Crosswalks folgten. MarcEdit scheint etwas aus der Zeit gefallen zu sein, dennoch klappte die Bedienung mithilfe der Dozenten und den verlinkten Anleitungen gut. Ein prüfender Blick über die konvertierten Files zeigte, dass die Umwandlung scheinbar erfolgreich war.
+
+
+
+
 
