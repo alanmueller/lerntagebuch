@@ -28,8 +28,7 @@ Die Lernziele werden hier noch wie folgt festgehalten:
 Die Abbdilung gibt dabei ein zusätzliches visuelles Verständis zu den Lernzielen bzw technischen Aspekte die kennen gelertn werden
 
  ![upload_6f65912f937ad0643db6dd982043e148](https://user-images.githubusercontent.com/71718724/148580506-00e2ee7b-6d14-4fc1-99ca-7479cd680118.png)
- Darstellung Kursinhalte 
- [^1]: Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. https://bain.felixlohmeier.de/#/01_technische-grundlagen, abgerufen am 21.09.2021
+ Darstellung Kursinhalte [^1].
 
 
 **Schwierigkeiten**
