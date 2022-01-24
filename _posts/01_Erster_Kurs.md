@@ -40,7 +40,7 @@ Der Zugriff auf die virtuelle Maschine funktionierte problemlos, wobei bei VMs �
 
 **Erkenntnisse - Was waren die Aha-Effekte?**
 
-Grundsätzlich haben mich die Themen bzw. Leistungsziele doch überrascht. Ich habe mir den Kurs stark theoretisch vorgestellt. Das dem nun nicht so ist habe ich als sehr positiv aufgenommen.
+Grundsätzlich haben mich die Themen bzw. Leistungsziele doch überrascht. Ich habe mir den Kurs stark theoretisch vorgestellt. Das dem nun nicht so ist habe ich als sehr positiv aufgenommen.Ich blicke mit Spannung auf die Aufgaben unter Unbuntu aber auch die möglichen technischen Schnittstellen.
 
 
 
