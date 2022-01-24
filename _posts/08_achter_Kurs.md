@@ -26,13 +26,10 @@ die ID wird von VuFind das Feld controllfield mit dem Tag 001 importiert. Dieses
 
 Mit dieser Übung wurde nun der letzte Schritt unseres bekanntes Schaubilds aufgezeigt:
 
- 
+![upload_6f65912f937ad0643db6dd982043e148](https://user-images.githubusercontent.com/71718724/148580506-00e2ee7b-6d14-4fc1-99ca-7479cd680118.png)
+Darstellung Kursinhalte [^1].
 
-
-
-
-
-
+[^1]: Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. https://bain.felixlohmeier.de/#/01_technische-grundlagen, abgerufen am 21.09.2021.
 
 
 
