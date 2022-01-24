@@ -1,5 +1,5 @@
 ---
-title: "Sechster Tag - Metadaten modellieren und Schnittstellen nutzen"
+title: "Sechster Tag - Metadaten modellieren und Schnittstellen nutzen 1/2"
 date: 2021-11-19
 
 In diesem Artikel wird auf die sechste Sitzung des Moduls Bibliothek und Archivinformatik eingegangen. Thema dabei waren dabei die Besprechung der vergangenen Übung (Post ex_02_OAI-PMH-Schnittstellen), ein kurzer Punkt zum aktuellen Stand der Vorlesung und das Thema Metadaten über OAI-PMH harvesten mit VuFindHarvest. 
@@ -27,5 +27,5 @@ In diesem Abschnitt geht es um die Installation und anschliessende Übung mit Vu
 
 Ich hatte in dieser Phase immer wieder Probleme mit der Verbindung zu Pulse Secure damit ich die Virtuelle Maschine starten konnte. Die Installation wurde deshalb zu einem späteren Zeitpunkt durchgeführt. Durch eine komplette Neuinstallation von PulseSecure nach Anleitung im Intranet der Fachochschule konnte ich mich mit dem VPN wieder verbinden und die Virtuelle Maschine starten. 
 
-Nachtrag:
+Nachtrag: Nachdem die Vituelel Maschine wieder funktionierte konnte ich die Installation von VuFindHarvest ausführen. Nachdem ich diese wie im Kursdokument beschreiben durchgeführt habe konnte ich mich an die Übung machen. 
 
