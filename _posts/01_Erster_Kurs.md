@@ -19,11 +19,11 @@ Wobei dabei ein kontinuierliches Behandeln des Kurses kaum möglich ist und verm
 
 Die Lernziele werden hier noch wie folgt festgehalten:
 
-•	die Funktionsweise spezifischer Bibliothekssoftware zu verstehen
-•	die richtige Software für eine spezifische Aufgabe zu evaluieren
-•	Suchmaschinen zu konfigurieren
-•	Bibliothekarische und archivarische Metadaten (z.B. MARC, MARCXML, MODS, Dublin Core, EAD, BIBFRAME) zu modellieren und diese mit entsprechenden Protokollen / Anwendungen zu übertragen
-•	Crosswalks zwischen unterschiedlichen Metadatenformaten zu programmieren
+- die Funktionsweise spezifischer Bibliothekssoftware zu verstehen
+- die richtige Software für eine spezifische Aufgabe zu evaluieren
+- Suchmaschinen zu konfigurieren
+- Bibliothekarische und archivarische Metadaten (z.B. MARC, MARCXML, MODS, Dublin Core, EAD, BIBFRAME) zu modellieren und diese mit entsprechenden Protokollen / Anwendungen zu übertragen
+- Crosswalks zwischen unterschiedlichen Metadatenformaten zu programmieren
 
 Die Abbdilung gibt dabei ein zusätzliches visuelles Verständis zu den Lernzielen bzw technischen Aspekte die kennen gelertn werden
 
