@@ -43,7 +43,6 @@ Der Zugriff auf die virtuelle Maschine funktionierte problemlos, wobei bei VMs �
 Grundsätzlich haben mich die Themen bzw. Leistungsziele doch überrascht. Ich habe mir den Kurs stark theoretisch vorgestellt. Das dem nun nicht so ist habe ich als sehr positiv aufgenommen.
 
 
-Quellen:
 
  [^1]: Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. https://bain.felixlohmeier.de/#/01_technische-grundlagen, abgerufen am 21.09.2021.
 
