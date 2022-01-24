@@ -38,6 +38,9 @@ Im Gegensatz zu Koha muss, muss ArchivesSpace in der Standardinstallation manuel
 
 Hier war noch spannend, dass unter http://localhost:8089/ die REST API erreichbar ist, und unter http://localhost:8090/ die Suchmaschine Apache Solr.
 
+![image](https://user-images.githubusercontent.com/71718724/150852383-18fe4a11-5588-483f-a748-efff2517d160.png)
+
+
 
 
 
