@@ -1,1 +1,15 @@
+---
+title: "Übung Konfiguration Suche und Facetten"
+date: 2021-12-03
+---
+
+In dieser Übung «Konfiguration Suche und Facetten» geht es die Individualisierung des Suchsystem VuFind.
+VuFind ist in der Sicht aus Facetten und Suche sehr gut konfigurierbar. Die Beschreibung bzw. das Vorgehen ist in einem Lernvideo präsentiert worden. Die Modifikationen. Konnten dabei parallel erstellt werden. Die Dateien searches.ini und facets.ini wurden für diese Übung angepasst. In diesen Dokumenten werden die ganzen Suchanfragen, Resultate und Facetten geregelt. 
+
+**searches.ini**
+Hier werden wie bereits angesprochen die meisten Punkte der Suche un deren Resultate geregelt. Das heisst zum Beispiel können die Sortierung der Suchresultate angepasst werden. Auch das Ergebnis einer leeren Suche kann angepasst werden. Entweder können mittels PHP-Konfiguration in diesem Bereich vorgenommen werden oder es gib vorgefertigte recommendation modules welche sehr halfen dies Übung in einem vernünftigen Rahmen durchzuführen. 
+
+**Facets.ini**
+In diesem File geht um die Konfiguration Anpassungen von Facetten. Es definiert welche Facettenoptionen angezeigt werden. Facetten sind kurzgesagt Filter, bei der Suche in Katalogen Ergebnisse auf verschiedene Eigenschaften wie zum Biepsiel spezifische Metadaten einschränken können. 
+
 
