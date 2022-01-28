@@ -3,20 +3,20 @@ title: "Vierter Tag - Funktion und Aufbau von Bibliothekssystemen 2/2"
 date: 2021-10-08
 ---
 
-In diesem Artikel wird auf die vierte Sitzung des Moduls Bibliothek und Archivinformatik eingegangen. Thema dabei waren der zweite Teil von Funktion und Aufbau von Archivssystemen mit einem Gastreferat zu Alma. 
+In diesem Artikel wird auf die vierte Sitzung des Moduls Bibliothek und Archivinformatik eingegangen. Thema dabei waren der zweite Teil von Funktion und Aufbau von Archivsystemen mit einem Gastreferat zu Alma. 
 
 Zu Beginn wurde noch der vergangene Kurs mit dem Thema «Funktion und Aufbau von Bibliothekssystemen» behandelt. 
 
 **Gastreferat ALMA**
 
-Als Gastreferentinnen waren Charlotte Frauchiger und Selina Hodel vom Team eRessourcen der FHNW eingeladen und sie stellten in den ersten beiden Lektionen das Bibliothekssystem Alma vor. Dies war auch aufgrund der Wünsche der Stundenten so eingeplant worden.
+Als Gastreferentinnen waren Charlotte Frauchiger und Selina Hodel vom Team eRessourcen der FHNW eingeladen und sie stellten in den ersten beiden Lektionen das Bibliothekssystem Alma vor. Dies war auch aufgrund der Wünsche der Studenten so eingeplant worden.
 
 
-Zunächst wurden im Referart die Swiss Library Service Platform (SLSP) gezeigt und ein paar Fakten zu Alma. Es ist ein umfassendes Bibliotheksmanagementsystem, das von der Firma Ex Libris Ltd. mit Sitz in Israel entwickelt wurde. Es bietet für Bibliotheken die Lösung, eine Vielzahl von Prozessen des täglichen Bibliotheksbetriebs in einem einzigen System abzubilden welches weltweit in bisher über 350 Organisationen eingesetzt wird. Seit 2012 am Markt und zählt zu den Weltmarktführern in diesem Segment.
+Zunächst wurden im Referat die Swiss Library Service Platform (SLSP) gezeigt und ein paar Fakten zu Alma. Es ist ein umfassendes Bibliotheksmanagementsystem, das von der Firma Ex Libris Ltd. mit Sitz in Israel entwickelt wurde. Es bietet für Bibliotheken die Lösung, eine Vielzahl von Prozessen des täglichen Bibliotheksbetriebs in einem einzigen System abzubilden, welches weltweit in bisher über 350 Organisationen eingesetzt wird. Seit 2012 am Markt und zählt zu den Weltmarktführern in diesem Segment.
 
-In einem «Hands on» wurden die Arbeitsprozesse direkt im System gezeigt. Die meisten Prozesse sind für mich noch fremd gewesen aber in der Vergangenen Kursen konnte ich mit Koha bereits eine solche Software kennen lernen. Für die Studenten, die in diesem Umfeld arbeiten war dies sicher noch einen ticken spannender zu sehen, da die meisten der Vergleich zu Ihrer Software interessierte. 
+In einem «Hands on» wurden die Arbeitsprozesse direkt im System gezeigt. Die meisten Prozesse sind für mich noch fremd gewesen aber in den vergangenen Kursen konnte ich mit Koha bereits eine solche Software kennenlernen. Für die Studenten, die in diesem Umfeld arbeiten war dies sicher noch einen Ticken spannender zu sehen, da die meisten der Vergleich zu Ihrer Software interessierte. 
 
-Bei einer kurze Online-Recherche konnte ich noch folgendes in Erfahrung bringen:
+Bei einer kurzen Online-Recherche konnte ich noch folgendes in Erfahrung bringen:
 
 Viele Bibliotheken weltweit erwerben und verfügen über die gleichen elektronischen und Print-Medien. Alma fördert und ermöglicht die kollaborative Nutzung von Metadaten zur Beschreibung und Verwaltung dieser Medien nach standardisierten Formaten und bibliothekarischen Regeln. Ferner kann durch Alma eine strategische Bestandsentwicklung mit kooperierenden Organisationen gesteuert werden[^1].
 
@@ -25,6 +25,7 @@ Viele Bibliotheken weltweit erwerben und verfügen über die gleichen elektronis
 Im Anschluss ging es zurück in den Lehrplan weiter mit Archivsystemen. Dabei wurden noch die theoretischen Punkte zu Metadatenstandard in Archiven behandelt. 
 
 Nach dem Gastreferat ging es in die Welt der Archivsysteme. Angefangen wurde mit einem theoretischen Block zu den **Metadatenstandards in Archiven**. ISAD(G) kommt hier als wichtiger Standard vor. Dabei sind folgende Punkte wichtig:
+
 Informationsbereiche
 
 ISAD(G) hat 26 Verzeichnungselemente in 7 Informationsbereichen:
@@ -44,7 +45,7 @@ Es gibt dabei noch sechs Pflichtfelder die sind: Als Pflichtfelder kommen
 - Umfang
 - Verzeichnungsstufe
 
-Die Übung zu den Archivkatalogen wurde übersprungen und wir gingen zu ArchiveSpace über. Dies wurde wie im letzten Blobgbeitrag (Post 3) bereits installiert. Nun wurde ein eigene Respository angelegt und ein erster Datensatz erfasst. Die Oberfläche zeigt bereits ein paar Abstriche und das System ruckelt bei mir stark, was aber vermutlich mit der virtuellen Maschine zusammenhängt. Der Arbeitsauftrag «Datensätze erstellen» wurde als nächstes durchgeführt und wird im nächsten Blogpost beschrieben. 
+Die Übung zu den Archivkatalogen wurde übersprungen und wir gingen zu ArchiveSpace über. Dies wurde wie im letzten Blobgbeitrag (Dritter Kurs) bereits installiert. Nun wurde ein eigene Respository angelegt und ein erster Datensatz erfasst. Die Oberfläche zeigt bereits ein paar Abstriche und das System ruckelt bei mir stark, was aber vermutlich mit der virtuellen Maschine zusammenhängt. Der Arbeitsauftrag «Datensätze erstellen» wurde als nächstes durchgeführt und wird im nächsten Blogpost beschrieben. 
 
 
 [^1]: https://www.wu.ac.at/fileadmin/wu/s/library/ALMA/AlmaSystembeschreibungWU.pdf
